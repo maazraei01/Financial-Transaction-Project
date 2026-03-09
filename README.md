@@ -70,3 +70,7 @@ Built a professional Excel dashboard featuring:
 - No anomalies by customer or transaction type — low concentration risk
 - Partial year data (2018 & 2023) must be excluded for accurate trend analysis
 - 10.1% high-value transaction rate warrants periodic monitoring
+
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard.png)
