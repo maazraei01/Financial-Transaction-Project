@@ -8,13 +8,13 @@ high-value anomalies using Excel and Power Query.
 ---
 
 ## 🛠️ Tools Used
-- Excel — PivotTables, PivotCharts, Dashboard, Conditional Formatting
+- Excel — PivotTables, PivotCharts, Dashboard
 - Power Query — Data cleaning, transformation, date formatting
 
 ---
 
 ## 📂 Dataset
-- **Source:** financial_transactions_Project_1.csv
+- **Source:** financial_transactions.csv
 - **Size:** 100,000 rows
 - **Columns:** Transaction ID, Date, Customer ID, Amount, Type, Description
 - **Period:** 2018 – 2023
