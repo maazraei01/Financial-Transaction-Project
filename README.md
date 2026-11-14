@@ -73,4 +73,5 @@ Built a professional Excel dashboard featuring:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1105" height="670" alt="dashboard" src="https://github.com/user-attachments/assets/9fd15509-fa06-4e98-a902-e510f3ed4fda" />
+
